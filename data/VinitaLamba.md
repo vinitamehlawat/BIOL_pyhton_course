@@ -24,6 +24,9 @@
 
 ##### Aug2021-Present: Graduate Research Assistant, Department of Biology, University of Arkansas
 
+Project Investigator: [Dr.Xuan Zhuang](https://zhuangxuan.wixsite.com/home)
+
+
 ###### March 2021-JUly 2021: Research Assistant in Trivedi School of Biosciences at Ashoka University, Sonepat, Haryana, India.
 
 - Project Investigator: [Dr. Balaji Chattopadhyay](https://scholar.google.co.in/citations?user=RLBr1_MAAAAJ&hl=en) .
@@ -89,6 +92,3 @@ Cheminformatics tools, RNA-seq pipeline, **Genome assembly tools**
 #### AWARDS AND ACHIEVEMENTS
 - Certificate of Distinction for securing 2nd Rank in Punjab University .
 - Qualified National Eligibility Test for Assistant Professor
-
-## REFERENCES:
-[Dr.Xuan Zhuang (PI)](https://zhuangxuan.wixsite.com/home)
