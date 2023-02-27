@@ -34,7 +34,7 @@
 * Aug’18 – March 2021: Junior Research Fellow at Computational Biology Laboratory,
 National Institute of Plant Genome Research, New Delhi, India.
 
-- Project Investigator: [Dr. Gitanjali Yadav](#https://scholar.google.com/citations?user=Pw31XWcAAAAJ&hl=en)
+- Project Investigator: [Dr Gitanjali Yadav](#https://scholar.google.com/citations?user=Pw31XWcAAAAJ&hl=en)
 
 
 ## RESEARCH PROJECTS
