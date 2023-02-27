@@ -61,7 +61,7 @@ Comparative genomics work in volant vertebrates and looking for their Immune sys
 
 
 1. [Population genomic insights into the evolution of the SARS-CoV-2 Omicron variant](https://www.medrxiv.org/content/10.1101/2022.06.27.22276933v1)
-2. Genomic perspective of bat research: biotic evolution to One Health[Under review](#)
+2. Genomic perspective of bat research: biotic evolution to One Health [Under review](#)
 
 ##### BOOK CHAPTER
 
