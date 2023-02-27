@@ -25,13 +25,17 @@
 ##### Aug2021-Present: Graduate Research Assistant, Department of Biology, University of Arkansas
 
 ###### March 2021-JUly 2021: Research Assistant in Trivedi School of Biosciences at Ashoka University, Sonepat, Haryana, India.
+
 - Project Investigator: [Dr. Balaji Chattopadhyay](#https://scholar.google.co.in/citations?user=RLBr1_MAAAAJ&hl=en)
 
 
 ###### Aug 2021-Dec 2021: Worked as a Teaching Fellow - Biostatistics and Bioinformatics Ashoka University
+
 * Aug’18 – March 2021: Junior Research Fellow at Computational Biology Laboratory,
 National Institute of Plant Genome Research, New Delhi, India.
+
 - Project Investigator: [Dr. Gitanjali Yadav](#https://scholar.google.com/citations?user=Pw31XWcAAAAJ&hl=en)
+
 
 ## RESEARCH PROJECTS
 
@@ -53,7 +57,7 @@ Comparative genomics work in volant vertebrates and looking for their Immune sys
 
 
 1. [Population genomic insights into the evolution of the SARS-CoV-2 Omicron variant](#https://www.medrxiv.org/content/10.1101/2022.06.27.22276933v1)
-2. Genomic perspective of bat research: biotic evolution to One Health [Under review](#)
+2. Genomic perspective of bat research: biotic evolution to One Health[Under review](#)
 
 ##### BOOK CHAPTER
 
