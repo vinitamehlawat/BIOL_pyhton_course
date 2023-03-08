@@ -10,7 +10,7 @@
 
 ## 3. Slurm script
 
-[blast-run-assign.slurm](#https://github.com/vinitamehlawat/BIOL_pyhton_course/blob/main/blast-run-assign.slurm)
+[blast-run-assign.slurm](https://github.com/vinitamehlawat/BIOL_pyhton_course/blob/main/blast-run-assign.slurm)
 
 ## 4. Use rsync to synchronize the remote mt_genomes, which contains your new output file, and your local version of mt_genomes.
 
