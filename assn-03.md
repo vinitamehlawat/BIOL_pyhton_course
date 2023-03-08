@@ -8,7 +8,7 @@
 
 `scp unknown.fa vlamba@hpc-portal2.hpc.uark.edu:/storage/vlamba`
 
-## 3. Slurm script
+## 3. Run BLAST
 
 [blast-run-assign.slurm](https://github.com/vinitamehlawat/BIOL_pyhton_course/blob/main/blast-run-assign.slurm)
 
