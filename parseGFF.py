@@ -21,8 +21,24 @@ with open(args.gff) as gff_line:
 
     # loop over the line in the file
     for line in gff_line:
-        print(line)
+       
+# Remove the newline character at the end of the line
+        line = line.strip()
 
+        # Skip comment lines
+        if line.startswith("#"):
+            continue
+
+        # Split the line into columns
+        columns = line.split("\t")
+
+        # Extract the feature type and its start and end positions
+        feature_type = columns[2]
+        start_pos = int(columns[3])
+        end_pos = int(columns[4])
+
+        # Print the feature type and length, separated by a tab character
+        print(f"{feature_type}\t{end_pos - start_pos + 1}")
 
 
 
